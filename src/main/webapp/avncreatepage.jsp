@@ -66,6 +66,7 @@ input[type="date"]{
       -moz-border-radius:5px;
       -webkit-border-radius:5px;
 }
+
 	
 input[type="button"]{
     background-color: #f4511e;
